@@ -83,6 +83,18 @@ button:hover{
     }
 }
 
+@media (max-width: 700px){
+    body{
+        width: 95%;
+    }
+
+    header div{
+        display: none;
+    }
+}
+
+
+
 
 
 
