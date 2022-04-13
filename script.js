@@ -1,5 +1,3 @@
-/*mappa nuova dove le chiavi sono le parole e i value sono quanti volti sono stati cliccati*/ 
-
 let div_selected = {}; 
 let choose_results = {};
 
